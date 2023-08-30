@@ -7,3 +7,6 @@ Aproveite para refatorar e acertar alguns pontos de seu projeto que não ficaram
 ## Forma de entrega
 - Publique a sua solução no seu Github pessoal (criado com o e-mail Inteli conforme instruído no tutorial da Semana 1)
 - Na resposta ao card na Adalove, inclua o link para o seu Github
+
+
+iggiugo
